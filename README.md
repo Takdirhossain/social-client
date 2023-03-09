@@ -1,11 +1,2 @@
-# Welcome to Uptech 
-This Complete mern stack application was develop with react tailwind daisyui fontawesome and more
 
-
-## About Project
-This is a simple review application where a user can add their review and can see service baised review all all everything is protected with firebase without register or login a user cant add review. and have my review section and meny more useful feture
-
-##live Link
-
-##api Link 
-https://uptech-server-takdirhossain.vercel.app
+![Screenshot_93](https://user-images.githubusercontent.com/93027521/223956835-aa2e8afb-cea5-4968-8b96-8cbe903df8d7.png)
